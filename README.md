@@ -1,4 +1,4 @@
-# HepaClass — HBV-HCC Classifier (TCGA-LIHC)
+# HepaClass: HBV-HCC Classifier (TCGA-LIHC)
 
 **Goal:** Separate HBV-driven hepatocellular carcinoma (HBV-HCC) from non‑viral HCC with a lightweight, reproducible baseline.
 
